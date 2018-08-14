@@ -2,6 +2,10 @@
 
 Example project to demonstrate cutting socket windows.
 
+# Status 
+
+Work In Progress
+
 # Instructions
 
 > Original Tutorial is [here](https://github.com/realthunder/FreeCAD_assembly3/wiki/Modeling-using-Assembly)
