@@ -73,3 +73,7 @@ You'll need two files:
 4. All done, go to `enclosure`, refresh the view
 
 ![add-more-cuts](https://user-images.githubusercontent.com/6639874/45267929-08201780-b47e-11e8-82af-db39824790b5.gif)
+
+# Attachments 
+[asm3-cut-window-example-20180909T2231.zip](https://github.com/ceremcem/freecad-notes/files/2364585/asm3-cut-window-example-20180909T2231.zip)
+
