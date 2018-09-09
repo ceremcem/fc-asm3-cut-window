@@ -1,3 +1,5 @@
+**Main HOWTO**: [ceremcem/freecad-notes](https://github.com/ceremcem/freecad-notes)
+
 # Description
 
 Example project to demonstrate cutting socket windows. Usage scenario: 
