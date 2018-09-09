@@ -10,6 +10,8 @@ Example project to demonstrate cutting socket windows. Usage scenario:
 - [x] Create additional window cuts without breaking previous work.
 - [x] Refine the window cuts without breaking any previous work.
 
+![result](https://user-images.githubusercontent.com/6639874/45268003-2df9ec00-b47f-11e8-894e-92f6214c3713.gif)
+
 # Status 
 
 Practically usable.
