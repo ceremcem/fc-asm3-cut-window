@@ -12,7 +12,7 @@ Example project to demonstrate cutting socket windows. Usage scenario:
 
 # Status 
 
-Work In Progress
+Practically usable.
 
 # Instructions
 
