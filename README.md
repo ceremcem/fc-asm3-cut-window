@@ -18,7 +18,21 @@ Example project to demonstrate cutting socket windows. Usage scenario:
 
 Practically usable.
 
-# Instructions
+# Short Instructions 
+
+> Sheet metal doesn't work with cut parts, so you have to use PartDesign to create the base and create the windows with "Pocket" operations.
+
+1. Create your panel (draw the base, bend, etc.)
+2. Make sure that your panel is marked as "Active Body". 
+3. Select the "Cut" solid within your socket. 
+4. Create a subshape binder. 
+5. Create a new sketch inside the Active Body. 
+6. Create External Geometry Constraints.
+7. Draw the cut shape by using the constraints in the previous step. 
+8. Create pocket. 
+9. Unfold the body.
+
+# Detailed Instructions
 
 > Original Tutorial is [here](https://github.com/realthunder/FreeCAD_assembly3/wiki/Modeling-using-Assembly)
 
